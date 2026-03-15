@@ -1,6 +1,5 @@
 # Kitchen Chaos
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS-blue.svg)](https://unity.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Kitchen Chaos** is a high-performance 3D Cooking Simulation game built with Unity and C#. This project serves as a technical showcase of **Event-Driven Architecture**, **Clean Code principles**, and **Modular Game Design**.
 
