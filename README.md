@@ -9,7 +9,7 @@
 ### Gameplay Preview
 | **Screenshot 1** | **Screenshot 2** | **Screenshot 3** | **Screenshot 4** | **Screenshot 5** |
 | :---: | :---: | :---:| :---:| :---: |
-| <img src="./Screenshots/Screenshot1.png" width="450""> | <img src="./Screenshots/Screenshot2.png" width="450"> | <img src="./Screenshots/Screenshot3.png" width="450"> | <img src="./Screenshots/Screenshot4.png" width="450"> | <img src="./Screenshots/Screenshot5.png" width="450" >
+| <img src="./Screenshots/Screenshot6.png" width="450""> | <img src="./Screenshots/Screenshot2.png" width="450"> | <img src="./Screenshots/Screenshot3.png" width="450"> | <img src="./Screenshots/Screenshot4.png" width="450"> | <img src="./Screenshots/Screenshot5.png" width="450" >
 
 ---
 
